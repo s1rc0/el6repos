@@ -4,9 +4,9 @@
   "author": "s1rc0",
   "summary": "set of repositories for EL6",
   "license": "Apache 2.0",
-  "source": "https://github.com/s1rc0/EL6-Repos.git",
-  "project_page": "https://github.com/s1rc0/EL6-Repos",
-  "issues_url": "https://github.com/s1rc0/EL6-Repos/issues",
+  "source": "https://github.com/s1rc0/el6repos.git",
+  "project_page": "https://github.com/s1rc0/el6repos",
+  "issues_url": "https://github.com/s1rc0/el6repos/issues",
   "dependencies": [
     {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
   ]
